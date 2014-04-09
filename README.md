@@ -2,8 +2,8 @@
 
 This repository contains T-Shirt designs for parodies of Internet "mega" bugs -- events or bugs so big they have effectively taken down the INTERNET.  This includes:
 
-* [2014: OpenSSL Heartbleed](./2014-openssl-heartbleed/README.md): OpenSSL contained a bug that allowed an attacker to read arbitrary memory. Ooops. aka [Heartbleed](http://heartbleed.com/).
-* [2012: Leap Second](./2012-leap-second/README.md): Both the [Linux kernel and Java contained major bugs during the last Leap Second](http://www.wired.com/2012/07/leap-second-bug-wreaks-havoc-with-java-linux/).  Many websites were taken down as a result.
+* [2014: OpenSSL Heartbleed](./2014-openssl-heartbleed/): OpenSSL contained a bug that allowed an attacker to read arbitrary memory. Ooops. aka [Heartbleed](http://heartbleed.com/).
+* [2012: Leap Second](./2012-leap-second/): Both the [Linux kernel and Java contained major bugs during the last Leap Second](http://www.wired.com/2012/07/leap-second-bug-wreaks-havoc-with-java-linux/).  Many websites were taken down as a result.
 
 ## Design Notes
 
